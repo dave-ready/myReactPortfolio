@@ -33,7 +33,8 @@ const Footer = () => {
             <IconButton 
             className={classes.root} 
             aria-label="Github.com" 
-            onClick={() => window.open('https://github.com/dave-ready', "_blank")}>
+            onClick={() => window.open('https://github.com/dave-ready', "_blank")}
+            >
             <GitHubIcon fontSize="large" />
             </IconButton>
             
@@ -41,7 +42,8 @@ const Footer = () => {
             <IconButton 
             className={classes.root} 
             aria-label="Linkedin.com" 
-            onClick={() => window.open('https://www.Linkedin.com', "_blank")}>
+            onClick={() => window.open('https://www.linkedin.com/in/david-ready-a515411b9/', "_blank")}
+            >
             <LinkedInIcon fontSize="large" />
             </IconButton>
     

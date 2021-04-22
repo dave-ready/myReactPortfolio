@@ -1,6 +1,6 @@
 {
-  "name": "myreactportfolio",
-  "homepage": "https://dave-ready.github.io/myreactportfolio",
+  "homepage": "https://dave-ready.github.io/",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

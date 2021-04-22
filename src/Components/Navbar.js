@@ -51,11 +51,6 @@ const menuItems = [
         listText: "Home",
         listPath: "/"
     },
-    /*{
-        listIcon: <AssignmentInd/>,
-        listText: "Resume",
-        listPath: "/resume"
-    },*/
     {
         listIcon: <Apps/>,
         listText: "Project",
